@@ -1,5 +1,4 @@
 import React from 'react'
-import game from '../game/game'
 
 export default function Card_element(props) {
     

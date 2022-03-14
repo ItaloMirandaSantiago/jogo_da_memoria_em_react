@@ -43,7 +43,7 @@ let game = {
     },
 
     check_fim(){
-       return this.cards.filter(card => !card.virada).length == 0
+       return this.cards.filter(card => !card.virada).length === 0
     },
 
     tecs : [
